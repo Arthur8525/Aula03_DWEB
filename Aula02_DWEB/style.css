@@ -1,0 +1,25 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    color: #000000;
+    font-size: 65px;
+}
+
+p {
+    font-family: 'Open Sans';
+    text-align: center;
+    color: #7D7987;
+    font-size: 25px;
+}
+
+a{
+    color:#0075FF
+}
+
+.destaque{
+    color: #0075FF;
+}
